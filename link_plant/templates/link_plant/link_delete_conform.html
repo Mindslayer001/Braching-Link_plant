@@ -1,0 +1,9 @@
+<!-- delete_link_confirm.html -->
+
+<h1>Confirm deletion of "{{ object }}"</h1>
+
+<form method="post">
+  {% csrf_token %}
+  <input type="submit" value="Confirm Delete">
+  <button value = "No" onclick ='windows.open('{% url 'link_list' %}')'
+</form>
