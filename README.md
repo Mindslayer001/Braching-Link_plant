@@ -34,8 +34,8 @@ Braching is a Django-based link management and bookmarking platform, inspired by
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mindslayer001/Shorty-URL_Shortening.git
-cd Shorty-URL_Shortening
+git clone [https://github.com/Mindslayer001/Shorty-URL_Shortening.git](https://github.com/Mindslayer001/Braching-Link_plant.git)
+cd Braching-Link_plant
 ```
 2. Create Virtual Environment(Optional):
 
